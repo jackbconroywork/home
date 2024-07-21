@@ -15,7 +15,7 @@ function HeroContent() {
         </Link>
         <Link
           className="aximo-default-btn aximo-default-btn-outline"
-          to="/service"
+          to="/contact-us"
         >
           <span className="aximo-label-up">Learn More</span>
           <span className="aximo-label-up">Learn More</span>
